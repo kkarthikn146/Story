@@ -1,0 +1,1 @@
+This is a great option. However, it sadly doesn't seem to work in PowerShell, which means I seem to be unable to use this command on a UNC path.
